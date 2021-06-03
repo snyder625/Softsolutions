@@ -325,6 +325,9 @@ p {
         margin-left: 1rem;
         margin-right: 0;
     }
+    .nav-item {
+        text-align: center;
+    }
     .big-heading {
         font-weight: lighter;
         text-align: center;
